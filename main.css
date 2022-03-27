@@ -1,0 +1,161 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.block {
+  background-color: white;
+
+  border-radius: 25px;
+  box-shadow: 2px;
+  width: 80%;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 30px;
+}
+.submitbtn {
+  text-decoration: none;
+  color: white;
+}
+
+.submitbtn:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Heading {
+  color: #ef4e7b;
+  font-size: 45px;
+  font-weight: bold;
+  margin: auto;
+}
+
+.illustration {
+  display: flex;
+}
+img {
+  position: relative;
+}
+.avatar {
+  border-radius: 50%;
+  width: 50px;
+}
+
+.div80 p {
+  font-weight: 600;
+}
+.overview {
+  padding-top: 30px;
+}
+
+.header p {
+  font-size: 50px;
+}
+
+.mybutton {
+  background: #fa743f;
+  border-radius: 10px;
+  color: white;
+  border-color: #fa743f;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.mybutton a {
+  text-decoration: none;
+  color: white;
+}
+.div80 {
+  width: 90%;
+}
+.mybutton a:hover {
+  text-decoration: none;
+  color: white;
+}
+.mybutton:hover {
+  background: #fa743f;
+  border-color: #fa5717;
+  text-decoration: none;
+  color: white;
+  text-decoration: none;
+  transform: scale(1.02);
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+.icons {
+  color: orange;
+
+  padding: 5px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+.material-icons {
+  font-size: 28px !important;
+}
+
+.uploadPhoto {
+  font-size: 100px !important;
+  color: orange;
+  box-sizing: border-box;
+  padding: 5px;
+  margin-left: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-left: -180px;
+}
+.uploadDP {
+  background: #696969;
+  border: none;
+  height: 140px;
+  padding: 5px;
+}
+
+.box {
+  display: flex;
+  width: 70%;
+  border: none;
+  margin: 20px;
+  padding: 10px 30px;
+  background-color: rgb(255, 255, 255, 0.7);
+  border-radius: 24px;
+}
+.icon {
+  display: inline;
+}
+.desc {
+  display: inline;
+}
+
+.viewButton {
+  display: inline;
+  float: right;
+  background-color: #fa743f;
+  color: white;
+  border: none;
+}
+
+.viewButton:hover {
+  color: white;
+  transform: scale(1.05);
+}
+
+.project {
+  margin: 10px auto;
+
+  align-items: center;
+}
